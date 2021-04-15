@@ -1,0 +1,25 @@
+% De secuencia de comandos de octava
+	% Título: Funcion Lineal
+	% Descripción: Script para graficar la funcion F3
+	% Autor: Ing. Luis Alfredo Martinez Santiago (fredylams) fredsantiago279@gmail.com
+	% Fecha: 20210401
+	% Versión: 1
+	% De uso: octava> / ruta / f_lineal
+	% Notas: Requiere aplicacion octava usar en consola preferiblemente
+	
+	% limpiar variables
+		 clear
+	% Ejemplo y=2-v(4x-2)
+	% Rango de -10..10 en i = 1
+		x = -10 : 0.2 : 10 ;
+	% Valor de la función
+	 	y=nthroot(2*(x),5);
+	% Dibujar x, y
+		 plot (x, y);
+	% Titulo
+		title ( "y=v(5&2x)" );
+	% Etiqueta para x
+		xlabel ( " x " );
+	% Etiqueta para y
+		ylabel ( " f (x) " );
+
