@@ -4,7 +4,7 @@
 % Autor: LUIS ALFREDO MARTINEZ SANTIAGO  (LuisAlfredoMartinezSantiago)  fredsantiago279@gmail.com
 % Fecha: 20210414
 % Sesion: 1
-% De uso: octava> / ruta / ModeloTemperatura
+% De uso: octava> / ruta / FUNCIONES ACTIVIDAD 4
 % Notas: Requiere aplicacion octava usar en consola preferiblemente
 
 % y=((16-x.^2))./((4-x))
