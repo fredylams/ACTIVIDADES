@@ -7,6 +7,15 @@
 % De uso: octava> / ruta / 
 % Notas: Requiere aplicacion octava usar en consola preferiblemente
 
+% FuncionLineal
+% Título: Funcion constante
+% Descripción: Script para graficar una funcion de la forma f (x) =16-x^2/4-x 
+% Autor: Daniel Rojo Reyes rojod0946@gmail.com
+% Fecha: 20210414
+% Sesion: 1
+% De uso: octava> / ruta / ModeloTemperatura
+% Notas: Requiere aplicacion octava usar en consola preferiblemente
+
 % y=((x-(-2)))
 % si se graficá su comportamiento es lineal
 % ^
